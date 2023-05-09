@@ -1,0 +1,1 @@
+cs < 0 or rs >= rows or cs >= columns or grid[rs * columns + cs] > 0:
